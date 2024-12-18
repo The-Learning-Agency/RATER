@@ -1,6 +1,7 @@
 # RATER
 Top-performing algorithms in the RATER (Robust Algorithms for Thorough Essay Rating) challenge to segment and label discourse in student argumentative essays
 
+
 **Why do students write the way they do? And are they any good at it?**
 
 Understanding the nuance of how students write remains a complex challenge – one that can be aided by deeper insight into how various writing components ultimately come together to form effective essays and other texts.
@@ -8,6 +9,7 @@ Understanding the nuance of how students write remains a complex challenge – o
 Granular writing feedback can help create better writers but teachers are often too overwhelmed to provide it as needed. So what can help? More knowledge about the different elements of student writing can aid in better development of customized AI, machine learning, and more effective, formative teacher feedback.
 
 There are currently numerous automated writing feedback tools, but they all have limitations. Many often fail to identify the structural elements of argumentative writing, such as thesis statements or supporting claims, or they fail to evaluate the quality of these argumentative elements. Additionally, most available tools are proprietary or inaccessible to educators because of their cost. This problem is compounded for under-serviced schools which serve a disproportionate number of students of color and from low-income backgrounds. In short, the field of automated writing feedback is ripe for innovation that could help democratize education.
+
 
 
 **The RATER Competition and Algorithms**
@@ -27,13 +29,13 @@ This repository hosts the 2 top-performing RATER Algorithms:
   
     Note: the Baseline Algorithm uses a different numeric labeling for the discourse types than the 1st Place Algorithm and the description in the [RATER competition data details](https://the-learning-agency.com/robust-algorithms-for-thorough-essay-rating/data/)
   
-      - 0 -> Lead
-      - 1 -> Position
-      - 2 -> Claim
-      - 3 -> Counterclaim
-      - 4 -> Rebuttal
-      - 5 -> Evidence
-      - 6 -> Concluding Statement
+      0 -> Lead
+      1 -> Position
+      2 -> Claim
+      3 -> Counterclaim
+      4 -> Rebuttal
+      5 -> Evidence
+      6 -> Concluding Statement
 
 * 1st Place Algorithm - developed by [Kossi Neroma](https://github.com/neroksi)
 
