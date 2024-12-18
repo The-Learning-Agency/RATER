@@ -44,6 +44,6 @@ This repository hosts the 2 top-performing RATER Algorithms:
 
 ---
 
-The data used in these models can be downloaded from Kaggle: [PERSUADE dataset](https://www.kaggle.com/datasets/julesking/tla-lab-persuade-dataset).
+The data used to train these models can be downloaded from Kaggle: [PERSUADE dataset](https://www.kaggle.com/datasets/julesking/tla-lab-persuade-dataset).
 
 See the [RATER Competition Data page](https://the-learning-agency.com/robust-algorithms-for-thorough-essay-rating/data/) for additional data and model details.
