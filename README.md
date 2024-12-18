@@ -1,6 +1,7 @@
 # RATER
 Top-performing algorithms in the RATER (Robust Algorithms for Thorough Essay Rating) challenge to segment and label discourse in student argumentative essays
 
+---
 
 **Why do students write the way they do? And are they any good at it?**
 
@@ -10,7 +11,7 @@ Granular writing feedback can help create better writers but teachers are often 
 
 There are currently numerous automated writing feedback tools, but they all have limitations. Many often fail to identify the structural elements of argumentative writing, such as thesis statements or supporting claims, or they fail to evaluate the quality of these argumentative elements. Additionally, most available tools are proprietary or inaccessible to educators because of their cost. This problem is compounded for under-serviced schools which serve a disproportionate number of students of color and from low-income backgrounds. In short, the field of automated writing feedback is ripe for innovation that could help democratize education.
 
-
+---
 
 **The RATER Competition and Algorithms**
 
