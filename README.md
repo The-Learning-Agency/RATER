@@ -47,7 +47,7 @@ This repository hosts the 2 top-performing RATER Algorithms:
 Additional Files: 
 * The data used to train these models can be downloaded from Kaggle: [PERSUADE dataset](https://www.kaggle.com/datasets/julesking/tla-lab-persuade-dataset).
   
-* The model weight files are too large for GitHub but can be accessed via this share link: [model files](INSERT LINK). The file locations, as provided by the model developers, are:
+* The model weight files are too large for GitHub but can be accessed via this share link: [model files](https://the-learning-agency-lab.files.com/f/bc3541abe9e0c257). The file locations, as provided by the model developers, are:
 
   Baseline Algorithm - the model files in the share link were stored in the Training directory, alongside config.pth and deberta_large_025.yml
   
