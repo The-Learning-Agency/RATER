@@ -26,7 +26,7 @@ These models were developed using the [PERSUADE dataset](https://www.kaggle.com/
 This repository hosts the 2 top-performing RATER Algorithms:
 * Baseline Algorithm - developed by [Andrija Milicevic](https://github.com/CroDoc)
 
-    Performance: this model obtains a double-weighted F1 of 0.6473 on the custom metric (PDF description in Resources)
+    Performance: this model obtains a double-weighted F1 of 0.6473 on the custom metric (PDF description in [Resources](https://github.com/The-Learning-Agency/RATER/tree/main/Resources))
   
     Note: the Baseline Algorithm uses a different numeric labeling for the discourse types than the 1st Place Algorithm and the description in the [RATER competition data details](https://the-learning-agency.com/robust-algorithms-for-thorough-essay-rating/data/)
   
@@ -40,7 +40,7 @@ This repository hosts the 2 top-performing RATER Algorithms:
 
 * 1st Place Algorithm - developed by [Kossi Neroma](https://github.com/neroksi)
 
-    Performance: this model obtains a double-weighted F1 of 0.6523 on the custom metric (PDF description in Resources)
+    Performance: this model obtains a double-weighted F1 of 0.6523 on the custom metric (PDF description in [Resources](https://github.com/The-Learning-Agency/RATER/tree/main/Resources))
 
 ---
 
@@ -49,9 +49,9 @@ Additional Files:
   
 * The model weight files are too large for GitHub but can be accessed via this share link: [model files](https://the-learning-agency-lab.files.com/f/bc3541abe9e0c257). The file locations, as provided by the model developers, are:
 
-  Baseline Algorithm - the model files in the share link were stored in the Training directory, alongside config.pth and deberta_large_025.yml
+  Baseline Algorithm - the model files in the share link were stored in the Training directory, alongside `config.pth` and `deberta_large_025.yml`
   
-  1st Place Algorithm - the model files in the share link should be stored in a folder called 'models' alongside the scripts and src directories. See the included README.
+  1st Place Algorithm - the model files in the share link should be stored in a folder called `models` alongside the `scripts` and `src` directories.
 
 ---
 
