@@ -49,7 +49,7 @@ Additional Files:
   
 * The model weight files are too large for GitHub but can be accessed via this share link: [model files](https://the-learning-agency-lab.files.com/f/bc3541abe9e0c257). The file locations, as provided by the model developers, are:
 
-  Baseline Algorithm - the model files in the share link were stored in the [Training](https://github.com/The-Learning-Agency/RATER/tree/main/BaselineAlgorithm/Training) directory, alongside `config.pth` and `deberta_large_025.yml`
+  Baseline Algorithm - the model files in the share link were stored in the [`Training`](https://github.com/The-Learning-Agency/RATER/tree/main/BaselineAlgorithm/Training) directory, alongside `config.pth` and `deberta_large_025.yml`
   
   1st Place Algorithm - the model files in the share link should be stored in a folder called `models` alongside the `scripts` and `src` directories.
 
